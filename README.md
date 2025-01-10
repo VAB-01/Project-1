@@ -1,2 +1,2 @@
 # Project-1
-My first python project 
+Python Betting Game 
